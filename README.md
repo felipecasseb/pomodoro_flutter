@@ -6,10 +6,10 @@ Este é um projeto desenvolvido em Flutter para aprimorar o desenvolvimento de U
 
 ## Descrição
 
-O Facebook Mobile & Web é um projeto pessoal para desenvolvimento de Apps Desktop com Flutter.
+O Pomodoro Flutter é um projeto pessoal para desenvolvimento de Apps Desktop com Flutter.
 
 <p align="center">
-    <img width="1200" height="625" src="https://firebasestorage.googleapis.com/v0/b/me-guia-tracuateua.appspot.com/o/Pomodoro%2Fpomodoro1.png?alt=media&token=f9c5002a-6d39-4606-a452-7847390e4511">
+    <img width="600" height="900" src="https://firebasestorage.googleapis.com/v0/b/me-guia-tracuateua.appspot.com/o/Pomodoro%2Fpomodoro1.png?alt=media&token=f9c5002a-6d39-4606-a452-7847390e4511">
 </p>
 
 <p align="center">
